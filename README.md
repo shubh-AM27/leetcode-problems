@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/shubh-AM27/leetcode-problems/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/shubh-AM27/leetcode-problems/tree/main/0190-reverse-bits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +101,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubh-AM27/leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/shubh-AM27/leetcode-problems/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
