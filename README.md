@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shubh-AM27/leetcode-problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/shubh-AM27/leetcode-problems/tree/main/0007-reverse-integer/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubh-AM27/leetcode-problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/shubh-AM27/leetcode-problems/tree/main/0202-happy-number/) | Easy |
 ## Recursion
