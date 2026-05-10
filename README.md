@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shubh-AM27/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/shubh-AM27/leetcode-problems/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/shubh-AM27/leetcode-problems/tree/main/0202-happy-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shubh-AM27/leetcode-problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0202-happy-number](https://github.com/shubh-AM27/leetcode-problems/tree/main/0202-happy-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/shubh-AM27/leetcode-problems/tree/main/0015-3sum/) | Medium |
+| [0202-happy-number](https://github.com/shubh-AM27/leetcode-problems/tree/main/0202-happy-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
