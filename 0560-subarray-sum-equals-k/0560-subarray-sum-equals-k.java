@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int subarraySum(int[] nums, int k) {
         Map<Integer, Integer> map = new HashMap<>();
