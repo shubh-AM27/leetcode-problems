@@ -107,4 +107,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/shubh-AM27/leetcode-problems/tree/main/0190-reverse-bits/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/shubh-AM27/leetcode-problems/tree/main/0207-course-schedule/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/shubh-AM27/leetcode-problems/tree/main/0207-course-schedule/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/shubh-AM27/leetcode-problems/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/shubh-AM27/leetcode-problems/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
