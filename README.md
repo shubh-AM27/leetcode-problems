@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/shubh-AM27/leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/shubh-AM27/leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/shubh-AM27/leetcode-problems/tree/main/0169-majority-element/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/shubh-AM27/leetcode-problems/tree/main/0566-reshape-the-matrix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0566-reshape-the-matrix](https://github.com/shubh-AM27/leetcode-problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/shubh-AM27/leetcode-problems/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -56,4 +58,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/shubh-AM27/leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0566-reshape-the-matrix](https://github.com/shubh-AM27/leetcode-problems/tree/main/0566-reshape-the-matrix/) | Easy |
 <!---LeetCode Topics End-->
