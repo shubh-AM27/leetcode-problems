@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/shubh-AM27/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/shubh-AM27/leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0055-jump-game](https://github.com/shubh-AM27/leetcode-problems/tree/main/0055-jump-game/) | Medium |
+| [0134-gas-station](https://github.com/shubh-AM27/leetcode-problems/tree/main/0134-gas-station/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/shubh-AM27/leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/shubh-AM27/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/shubh-AM27/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/shubh-AM27/leetcode-problems/tree/main/0055-jump-game/) | Medium |
+| [0134-gas-station](https://github.com/shubh-AM27/leetcode-problems/tree/main/0134-gas-station/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
