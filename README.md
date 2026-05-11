@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/shubh-AM27/leetcode-problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0013-roman-to-integer](https://github.com/shubh-AM27/leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/shubh-AM27/leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/shubh-AM27/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/shubh-AM27/leetcode-problems/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/shubh-AM27/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubh-AM27/leetcode-problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
