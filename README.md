@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/shubh-AM27/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/shubh-AM27/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/shubh-AM27/leetcode-problems/tree/main/0566-reshape-the-matrix/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/shubh-AM27/leetcode-problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0566-reshape-the-matrix](https://github.com/shubh-AM27/leetcode-problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/shubh-AM27/leetcode-problems/tree/main/0657-robot-return-to-origin/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/shubh-AM27/leetcode-problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
