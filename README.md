@@ -111,10 +111,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/shubh-AM27/leetcode-problems/tree/main/0100-same-tree/) | Easy |
 | [0207-course-schedule](https://github.com/shubh-AM27/leetcode-problems/tree/main/0207-course-schedule/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/shubh-AM27/leetcode-problems/tree/main/0100-same-tree/) | Easy |
 | [0207-course-schedule](https://github.com/shubh-AM27/leetcode-problems/tree/main/0207-course-schedule/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -124,4 +126,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/shubh-AM27/leetcode-problems/tree/main/0207-course-schedule/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/shubh-AM27/leetcode-problems/tree/main/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/shubh-AM27/leetcode-problems/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
