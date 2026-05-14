@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shubh-AM27/leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shubh-AM27/leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/shubh-AM27/leetcode-problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/shubh-AM27/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/shubh-AM27/leetcode-problems/tree/main/0202-happy-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/shubh-AM27/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shubh-AM27/leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/shubh-AM27/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/shubh-AM27/leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0169-majority-element](https://github.com/shubh-AM27/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shubh-AM27/leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/shubh-AM27/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
