@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/shubh-AM27/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shubh-AM27/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/shubh-AM27/leetcode-problems/tree/main/0566-reshape-the-matrix/) | Easy |
+| [1306-jump-game-iii](https://github.com/shubh-AM27/leetcode-problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shubh-AM27/leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shubh-AM27/leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/shubh-AM27/leetcode-problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -135,11 +136,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/shubh-AM27/leetcode-problems/tree/main/0100-same-tree/) | Easy |
 | [0207-course-schedule](https://github.com/shubh-AM27/leetcode-problems/tree/main/0207-course-schedule/) | Medium |
+| [1306-jump-game-iii](https://github.com/shubh-AM27/leetcode-problems/tree/main/1306-jump-game-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/shubh-AM27/leetcode-problems/tree/main/0100-same-tree/) | Easy |
 | [0207-course-schedule](https://github.com/shubh-AM27/leetcode-problems/tree/main/0207-course-schedule/) | Medium |
+| [1306-jump-game-iii](https://github.com/shubh-AM27/leetcode-problems/tree/main/1306-jump-game-iii/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
