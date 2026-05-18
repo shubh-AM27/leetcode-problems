@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/shubh-AM27/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/shubh-AM27/leetcode-problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1306-jump-game-iii](https://github.com/shubh-AM27/leetcode-problems/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/shubh-AM27/leetcode-problems/tree/main/1345-jump-game-iv/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shubh-AM27/leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shubh-AM27/leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/shubh-AM27/leetcode-problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/shubh-AM27/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/shubh-AM27/leetcode-problems/tree/main/0202-happy-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/shubh-AM27/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1345-jump-game-iv](https://github.com/shubh-AM27/leetcode-problems/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shubh-AM27/leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/shubh-AM27/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 ## String
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/shubh-AM27/leetcode-problems/tree/main/0100-same-tree/) | Easy |
 | [0207-course-schedule](https://github.com/shubh-AM27/leetcode-problems/tree/main/0207-course-schedule/) | Medium |
 | [1306-jump-game-iii](https://github.com/shubh-AM27/leetcode-problems/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/shubh-AM27/leetcode-problems/tree/main/1345-jump-game-iv/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
