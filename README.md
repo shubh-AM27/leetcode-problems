@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/shubh-AM27/leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/shubh-AM27/leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/shubh-AM27/leetcode-problems/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/shubh-AM27/leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0055-jump-game](https://github.com/shubh-AM27/leetcode-problems/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/shubh-AM27/leetcode-problems/tree/main/0118-pascals-triangle/) | Easy |
 | [0134-gas-station](https://github.com/shubh-AM27/leetcode-problems/tree/main/0134-gas-station/) | Medium |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubh-AM27/leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/shubh-AM27/leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubh-AM27/leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shubh-AM27/leetcode-problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/shubh-AM27/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
