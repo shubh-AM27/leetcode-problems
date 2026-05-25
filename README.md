@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/shubh-AM27/leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/shubh-AM27/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/shubh-AM27/leetcode-problems/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1871-jump-game-vii](https://github.com/shubh-AM27/leetcode-problems/tree/main/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shubh-AM27/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/shubh-AM27/leetcode-problems/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/shubh-AM27/leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [1340-jump-game-v](https://github.com/shubh-AM27/leetcode-problems/tree/main/1340-jump-game-v/) | Hard |
+| [1871-jump-game-vii](https://github.com/shubh-AM27/leetcode-problems/tree/main/1871-jump-game-vii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shubh-AM27/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shubh-AM27/leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1871-jump-game-vii](https://github.com/shubh-AM27/leetcode-problems/tree/main/1871-jump-game-vii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubh-AM27/leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1871-jump-game-vii](https://github.com/shubh-AM27/leetcode-problems/tree/main/1871-jump-game-vii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
