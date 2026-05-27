@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/shubh-AM27/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shubh-AM27/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shubh-AM27/leetcode-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/shubh-AM27/leetcode-problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-jump-game-vii](https://github.com/shubh-AM27/leetcode-problems/tree/main/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shubh-AM27/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shubh-AM27/leetcode-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/shubh-AM27/leetcode-problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
