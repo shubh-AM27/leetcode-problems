@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/shubh-AM27/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shubh-AM27/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/shubh-AM27/leetcode-problems/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shubh-AM27/leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/shubh-AM27/leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubh-AM27/leetcode-problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/shubh-AM27/leetcode-problems/tree/main/0202-happy-number/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shubh-AM27/leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
