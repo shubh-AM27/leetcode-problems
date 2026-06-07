@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shubh-AM27/leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2126-destroying-asteroids](https://github.com/shubh-AM27/leetcode-problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shubh-AM27/leetcode-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/shubh-AM27/leetcode-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/shubh-AM27/leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/shubh-AM27/leetcode-problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/shubh-AM27/leetcode-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/shubh-AM27/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1345-jump-game-iv](https://github.com/shubh-AM27/leetcode-problems/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shubh-AM27/leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/shubh-AM27/leetcode-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/shubh-AM27/leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shubh-AM27/leetcode-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/shubh-AM27/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -207,10 +209,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/shubh-AM27/leetcode-problems/tree/main/0100-same-tree/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/shubh-AM27/leetcode-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/shubh-AM27/leetcode-problems/tree/main/0100-same-tree/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/shubh-AM27/leetcode-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
