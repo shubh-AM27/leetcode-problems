@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shubh-AM27/leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2126-destroying-asteroids](https://github.com/shubh-AM27/leetcode-problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shubh-AM27/leetcode-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shubh-AM27/leetcode-problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shubh-AM27/leetcode-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/shubh-AM27/leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/shubh-AM27/leetcode-problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0566-reshape-the-matrix](https://github.com/shubh-AM27/leetcode-problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/shubh-AM27/leetcode-problems/tree/main/0657-robot-return-to-origin/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shubh-AM27/leetcode-problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/shubh-AM27/leetcode-problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/shubh-AM27/leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0202-happy-number](https://github.com/shubh-AM27/leetcode-problems/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/shubh-AM27/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shubh-AM27/leetcode-problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/shubh-AM27/leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shubh-AM27/leetcode-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shubh-AM27/leetcode-problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
