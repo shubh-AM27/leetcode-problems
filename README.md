@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-longest-common-suffix-queries](https://github.com/shubh-AM27/leetcode-problems/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/shubh-AM27/leetcode-problems/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shubh-AM27/leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shubh-AM27/leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shubh-AM27/leetcode-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shubh-AM27/leetcode-problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/shubh-AM27/leetcode-problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/shubh-AM27/leetcode-problems/tree/main/0202-happy-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shubh-AM27/leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/shubh-AM27/leetcode-problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shubh-AM27/leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shubh-AM27/leetcode-problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shubh-AM27/leetcode-problems/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Recursion
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/shubh-AM27/leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [1340-jump-game-v](https://github.com/shubh-AM27/leetcode-problems/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/shubh-AM27/leetcode-problems/tree/main/1871-jump-game-vii/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shubh-AM27/leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shubh-AM27/leetcode-problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shubh-AM27/leetcode-problems/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Matrix
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/shubh-AM27/leetcode-problems/tree/main/0190-reverse-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/shubh-AM27/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shubh-AM27/leetcode-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shubh-AM27/leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/shubh-AM27/leetcode-problems/tree/main/0207-course-schedule/) | Medium |
 | [1306-jump-game-iii](https://github.com/shubh-AM27/leetcode-problems/tree/main/1306-jump-game-iii/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/shubh-AM27/leetcode-problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shubh-AM27/leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/shubh-AM27/leetcode-problems/tree/main/0100-same-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shubh-AM27/leetcode-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/shubh-AM27/leetcode-problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shubh-AM27/leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
