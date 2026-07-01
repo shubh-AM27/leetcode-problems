@@ -1,77 +1,67 @@
 from collections import deque
+import heapq
 
 class Solution:
-    def maximumSafenessFactor(self, grid):
-
+    def maximumSafenessFactor(self, grid: List[List[int]]) -> int:
         n = len(grid)
 
-        dist = [[-1] * n for _ in range(n)]
-        q = deque()
+        if grid[0][0] == 1 or grid[n - 1][n - 1] == 1:
+            return 0
 
-        # Multi-source BFS
+        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+
+        # Multi-source BFS from all thieves
+        distance = [[-1] * n for _ in range(n)]
+        queue = deque()
+
         for i in range(n):
             for j in range(n):
                 if grid[i][j] == 1:
-                    dist[i][j] = 0
-                    q.append((i, j))
+                    distance[i][j] = 0
+                    queue.append((i, j))
 
-        dirs = [(1,0),(-1,0),(0,1),(0,-1)]
+        while queue:
+            x, y = queue.popleft()
 
-        while q:
-            x, y = q.popleft()
+            for dx, dy in directions:
+                nx, ny = x + dx, y + dy
 
-            for dx, dy in dirs:
+                if (
+                    0 <= nx < n
+                    and 0 <= ny < n
+                    and distance[nx][ny] == -1
+                ):
+                    distance[nx][ny] = distance[x][y] + 1
+                    queue.append((nx, ny))
 
-                nx = x + dx
-                ny = y + dy
+        # Maximum bottleneck path using max heap
+        maxDistancePath = [[-1] * n for _ in range(n)]
 
-                if 0 <= nx < n and 0 <= ny < n and dist[nx][ny] == -1:
+        heap = [(-distance[0][0], 0, 0)]
+        maxDistancePath[0][0] = distance[0][0]
 
-                    dist[nx][ny] = dist[x][y] + 1
-                    q.append((nx, ny))
+        while heap:
+            negMinDist, x, y = heapq.heappop(heap)
+            minDist = -negMinDist
 
-        def canReach(limit):
+            # Skip stale states
+            if minDist < maxDistancePath[x][y]:
+                continue
 
-            if dist[0][0] < limit:
-                return False
+            if x == n - 1 and y == n - 1:
+                return minDist
 
-            q = deque([(0,0)])
-            vis = {(0,0)}
+            for dx, dy in directions:
+                nx, ny = x + dx, y + dy
 
-            while q:
+                if 0 <= nx < n and 0 <= ny < n:
+                    newMinDistance = min(minDist, distance[nx][ny])
 
-                x, y = q.popleft()
+                    if newMinDistance > maxDistancePath[nx][ny]:
+                        maxDistancePath[nx][ny] = newMinDistance
+                        heapq.heappush(
+                            heap,
+                            (-newMinDistance, nx, ny)
+                        )
 
-                if x == n-1 and y == n-1:
-                    return True
-
-                for dx, dy in dirs:
-
-                    nx = x + dx
-                    ny = y + dy
-
-                    if (
-                        0 <= nx < n
-                        and 0 <= ny < n
-                        and (nx, ny) not in vis
-                        and dist[nx][ny] >= limit
-                    ):
-
-                        vis.add((nx, ny))
-                        q.append((nx, ny))
-
-            return False
-
-        lo = 0
-        hi = max(max(row) for row in dist)
-
-        while lo <= hi:
-
-            mid = (lo + hi) // 2
-
-            if canReach(mid):
-                lo = mid + 1
-            else:
-                hi = mid - 1
-
-        return hi
+        return 0
