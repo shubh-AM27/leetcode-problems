@@ -2,44 +2,33 @@ from collections import deque
 
 class Solution:
     def findSafeWalk(self, grid, health):
+        m, n = len(grid), len(grid[0])
 
-        m = len(grid)
-        n = len(grid[0])
+        dist = [[float("inf")] * n for _ in range(m)]
 
-        health -= grid[0][0]
+        start_cost = grid[0][0]
+        dist[0][0] = start_cost
 
-        if health <= 0:
-            return False
+        dq = deque()
+        dq.append((0, 0))
 
-        best = [[-1] * n for _ in range(m)]
-        best[0][0] = health
+        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
 
-        q = deque([(0, 0, health)])
+        while dq:
+            r, c = dq.popleft()
 
-        dirs = [(1,0),(-1,0),(0,1),(0,-1)]
+            for dr, dc in directions:
+                nr, nc = r + dr, c + dc
 
-        while q:
+                if 0 <= nr < m and 0 <= nc < n:
+                    new_cost = dist[r][c] + grid[nr][nc]
 
-            x, y, hp = q.popleft()
+                    if new_cost < dist[nr][nc]:
+                        dist[nr][nc] = new_cost
 
-            if x == m - 1 and y == n - 1:
-                return True
+                        if grid[nr][nc] == 0:
+                            dq.appendleft((nr, nc))
+                        else:
+                            dq.append((nr, nc))
 
-            for dx, dy in dirs:
-
-                nx = x + dx
-                ny = y + dy
-
-                if 0 <= nx < m and 0 <= ny < n:
-
-                    new_hp = hp - grid[nx][ny]
-
-                    if new_hp <= 0:
-                        continue
-
-                    if new_hp > best[nx][ny]:
-
-                        best[nx][ny] = new_hp
-                        q.append((nx, ny, new_hp))
-
-        return False
+        return health - dist[m - 1][n - 1] >= 1
