@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/shubh-AM27/leetcode-problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/shubh-AM27/leetcode-problems/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/shubh-AM27/leetcode-problems/tree/main/1345-jump-game-iv/) | Hard |
+| [1480-running-sum-of-1d-array](https://github.com/shubh-AM27/leetcode-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shubh-AM27/leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shubh-AM27/leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/shubh-AM27/leetcode-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shubh-AM27/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/shubh-AM27/leetcode-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shubh-AM27/leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/shubh-AM27/leetcode-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/shubh-AM27/leetcode-problems/tree/main/1871-jump-game-vii/) | Medium |
