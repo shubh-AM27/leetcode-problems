@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubh-AM27/leetcode-problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/shubh-AM27/leetcode-problems/tree/main/0202-happy-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/shubh-AM27/leetcode-problems/tree/main/0412-fizz-buzz/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shubh-AM27/leetcode-problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shubh-AM27/leetcode-problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/shubh-AM27/leetcode-problems/tree/main/1840-maximum-building-height/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shubh-AM27/leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/shubh-AM27/leetcode-problems/tree/main/0190-reverse-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/shubh-AM27/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shubh-AM27/leetcode-problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shubh-AM27/leetcode-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shubh-AM27/leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
