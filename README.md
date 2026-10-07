@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/shubh-AM27/leetcode-problems/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/shubh-AM27/leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0055-jump-game](https://github.com/shubh-AM27/leetcode-problems/tree/main/0055-jump-game/) | Medium |
+| [0088-merge-sorted-array](https://github.com/shubh-AM27/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/shubh-AM27/leetcode-problems/tree/main/0118-pascals-triangle/) | Easy |
 | [0134-gas-station](https://github.com/shubh-AM27/leetcode-problems/tree/main/0134-gas-station/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubh-AM27/leetcode-problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/shubh-AM27/leetcode-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/shubh-AM27/leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/shubh-AM27/leetcode-problems/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/shubh-AM27/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/shubh-AM27/leetcode-problems/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/shubh-AM27/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shubh-AM27/leetcode-problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/shubh-AM27/leetcode-problems/tree/main/0015-3sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/shubh-AM27/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/shubh-AM27/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [1340-jump-game-v](https://github.com/shubh-AM27/leetcode-problems/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shubh-AM27/leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
