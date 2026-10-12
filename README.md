@@ -368,4 +368,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shubh-AM27/leetcode-problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/shubh-AM27/leetcode-problems/tree/main/3620-network-recovery-pathways/) | Hard |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/shubh-AM27/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
