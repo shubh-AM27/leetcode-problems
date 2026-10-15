@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shubh-AM27/leetcode-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/shubh-AM27/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shubh-AM27/leetcode-problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shubh-AM27/leetcode-problems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shubh-AM27/leetcode-problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shubh-AM27/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/shubh-AM27/leetcode-problems/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/shubh-AM27/leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shubh-AM27/leetcode-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/shubh-AM27/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shubh-AM27/leetcode-problems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shubh-AM27/leetcode-problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shubh-AM27/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shubh-AM27/leetcode-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -329,10 +331,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shubh-AM27/leetcode-problems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/shubh-AM27/leetcode-problems/tree/main/3161-block-placement-queries/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shubh-AM27/leetcode-problems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/shubh-AM27/leetcode-problems/tree/main/3161-block-placement-queries/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/shubh-AM27/leetcode-problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubh-AM27/leetcode-problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
